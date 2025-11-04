@@ -1,0 +1,7 @@
+re>=2.2.1
+matplotlib>=3.9.2
+numpy>=1.26.4
+pandas>=2.3.2
+scipy>=1.131.1
+requests>=2.32.3
+jupyter
