@@ -41,7 +41,7 @@ The dataset is from:
 ## 🔮 Methods
 The workflow includes:
 - Downloading files from PhysioNet (if not already cached locally)
-- Extracting heart rate data from <code> blocks
+- Extracting heart rate data from '<code>' blocks
 - Computing RR intervals
 - Interpolating unevenly spaced heartbeats using cubic interpolation
 - Computing the power spectral density (PSD) using Welch’s method
